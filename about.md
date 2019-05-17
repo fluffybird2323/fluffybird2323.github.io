@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
- A.I ,Web and Open Source hobbyist  for Tech
+ A.I ,Web and Open Source hobbyist
 
 ### More Information
 I love meeting new people feel free to drop me a mail
