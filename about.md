@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ A.I ,Web and Open Source hobbyist  for Tech
 
 ### More Information
+I love meeting new people feel free to drop me a mail
+I'll be more than happy to reply
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[iyadav@cs.iitr.ac.in](mailto:iyadav@cs.iitr.ac.in)
