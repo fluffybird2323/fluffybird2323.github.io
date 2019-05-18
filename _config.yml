@@ -1,7 +1,6 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: jekyll-theme-cayman
 # Name of your site (displayed in the header)
 name: Ishaan Yadav
 
@@ -72,6 +71,7 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
+theme: jekyll-theme-cayman
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
